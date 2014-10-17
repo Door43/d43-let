@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[let:home|Door43 (let)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-let|d43-let repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-let/archive/master.zip|d43-let.zip]]
+
+**Recent Changes**
+{{changes>ns = let}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/let|Ethnologue data]]
+
